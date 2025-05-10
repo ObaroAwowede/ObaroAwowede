@@ -61,9 +61,9 @@
 <section>
   <h2>🚧 Featured Projects</h2>
   <div>
-    <h3><a href="https://github.com/your-username/fintech-ui">FinTech UI Kit</a></h3>
+    <h3><a href="https://github.com/ObaroAwowede/tiidelab-portfolio-practice.git">Portfolio</a></h3>
     <p>
-      A React component library for sleek, responsive online payment pages—built with Storybook & Tailwind.
+      A portfolio built with HTML and Javascript
     </p>
   </div>
   <div>
